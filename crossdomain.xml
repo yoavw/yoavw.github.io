@@ -3,5 +3,6 @@
   <allow-access-from domain="scratchx.org" secure="false"/>
   <allow-access-from domain="yoavw.github.io"/>
   <allow-access-from domain="localhost:9000" secure="false"/>
+  <allow-access-from domain="checkip.dyndns.org" secure="false"/>
 </cross-domain-policy>
 
